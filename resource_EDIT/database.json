@@ -1,0 +1,100 @@
+{
+  "genres": [
+    {
+      "id": "1",
+      "name": "Cartoon"
+    },
+    {
+      "id": "2",
+      "name": "Action"
+    },
+    {
+      "id": "3",
+      "name": "Comedy"
+    }
+  ],
+  "customers": [
+    {
+      "id": "1",
+      "name": "Emma Watson",
+      "dob": "1990-04-15",
+      "gender": "Female",
+      "position": "Producer",
+      "department": 1
+    },
+    {
+      "id": "2",
+      "name": "John Doe",
+      "dob": "1985-09-20",
+      "gender": "Male",
+      "position": "Marketing Director",
+      "department": 2
+    },
+    {
+      "id": "3",
+      "name": "Sarah Parker",
+      "dob": "1988-07-02",
+      "gender": "Female",
+      "position": "Distribution Manager",
+      "department": 3
+    },
+    {
+      "id": "4",
+      "name": "Chris Hemsworth",
+      "dob": "1983-08-11",
+      "gender": "Male",
+      "position": "Director",
+      "department": 1
+    },
+    {
+      "id": "5",
+      "name": "Amanda Johnson",
+      "dob": "1992-12-28",
+      "gender": "Female",
+      "position": "Marketing Coordinator",
+      "department": 2
+    },
+    {
+      "id": "6",
+      "name": "Robert Downey Jr.",
+      "dob": "1965-04-04",
+      "gender": "Male",
+      "position": "Distribution Coordinator",
+      "department": 3
+    }
+  ],
+  "films": [
+    {
+      "name": "Summer Blockbuster",
+      "description": "Produce and manage the company's flagship summer blockbuster film, including casting, filming, and post-production.",
+      "startDate": "2024-06-10",
+      "type": "pictute",
+      "department": 3,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Digital Campaign for Movie Release",
+      "description": "Develop and execute a marketing campaign for the release of a new movie, including digital advertising, social media promotion, and PR activities.",
+      "startDate": "2024-07-15",
+      "type": "Marketing Campaign",
+      "department": 2
+    },
+    {
+      "id": "3",
+      "name": "Film Festival Distribution",
+      "description": "Plan and coordinate the distribution of a movie to various film festivals, including submission logistics and screening arrangements.",
+      "startDate": "2024-09-03",
+      "type": "Film Distribution",
+      "department": 3
+    },
+    {
+      "id": "4",
+      "name": "Premiere Gala",
+      "description": "Organize the premiere gala for the company's latest movie release, including venue selection, red carpet arrangements, and guest invitations.",
+      "startDate": "2024-12-15",
+      "type": "Event Management",
+      "department": 1
+    }
+  ]
+}

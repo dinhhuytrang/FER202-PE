@@ -1,0 +1,156 @@
+{
+  "sports": [
+    {
+      "id": "1",
+      "name": "Football"
+    },
+    {
+      "id": "2",
+      "name": "Basketball"
+    },
+    {
+      "id": "3",
+      "name": "NFL"
+    }
+  ],
+  "athletes": [
+    {
+      "id": "1",
+      "name": "Lionel Messi",
+      "dob": "1987-06-24",
+      "gender": "Male",
+      "sport": 1,
+      "club": "Paris Saint-Germain",
+      "nationality": "Argentina"
+    },
+    {
+      "id": "2",
+      "name": "Cristiano Ronaldo",
+      "dob": "1985-02-05",
+      "gender": "Male",
+      "sport": 1,
+      "club": "Manchester United",
+      "nationality": "Portugal"
+    },
+    {
+      "id": "3",
+      "name": "LeBron James",
+      "dob": "1984-12-30",
+      "gender": "Male",
+      "sport": 2,
+      "club": "Los Angeles Lakers",
+      "nationality": "United States"
+    },
+    {
+      "id": "4",
+      "name": "Kevin Durant",
+      "dob": "1988-09-29",
+      "gender": "Male",
+      "sport": 2,
+      "club": "Brooklyn Nets",
+      "nationality": "United States"
+    },
+    {
+      "id": "5",
+      "name": "Tom Brady",
+      "dob": "1977-08-03",
+      "gender": "Male",
+      "sport": 3,
+      "club": "Tampa Bay Buccaneers",
+      "nationality": "United States"
+    },
+    {
+      "id": "6",
+      "name": "Patrick Mahomes",
+      "dob": "1995-09-17",
+      "gender": "Male",
+      "sport": 3,
+      "club": "Kansas City Chiefs",
+      "nationality": "United States"
+    },
+    {
+      "id": "7",
+      "name": "Alex Morgan",
+      "dob": "1989-07-02",
+      "gender": "Female",
+      "sport": 1,
+      "club": "Orlando Pride",
+      "nationality": "United States"
+    },
+    {
+      "id": "8",
+      "name": "Diana Taurasi",
+      "dob": "1982-06-11",
+      "gender": "Female",
+      "sport": 2,
+      "club": "Phoenix Mercury",
+      "nationality": "United States"
+    },
+    {
+      "id": "9",
+      "name": "Serena Williams",
+      "dob": "1981-09-26",
+      "gender": "Female",
+      "sport": 3,
+      "club": "ABC",
+      "nationality": "United States"
+    },
+    {
+      "id": "10",
+      "name": "Russell Westbrook",
+      "dob": "1988-11-12",
+      "gender": "Male",
+      "sport": 2,
+      "club": "Los Angeles Lakers",
+      "nationality": "United States"
+    },
+    {
+      "id": "743d",
+      "name": "Đặng Văn Lâm",
+      "dob": "2024-04-27",
+      "gender": "Male",
+      "sport": 1,
+      "club": "Quy Nhơn Bình Định",
+      "nationality": "Việt Nam"
+    },
+    {
+      "id": "d4fa",
+      "name": "THOMAS",
+      "dob": "2024-04-18",
+      "gender": "Male",
+      "sport": 1,
+      "club": "US",
+      "nationality": "SS"
+    }
+  ],
+  "events": [
+    {
+      "name": "Super Bowl ",
+      "description": "Championship game of the NFL, played annually between the champions of the AFC and NFC.",
+      "startDate": "2024-02-04",
+      "sport": 3,
+      "id": "1"
+    },
+    {
+      "name": "NBA Finals",
+      "description": "Championship series of the National Basketball Association (NBA), played annually between the champions of the Eastern and Western Conferences.",
+      "startDate": "2024-06-01",
+      "sport": 1,
+      "id": "2"
+    },
+    {
+      "name": "FIFA World Cup",
+      "description": "International football (soccer) tournament contested by the men's national teams of the member associations of FIFA, held every four years.",
+      "startDate": "2026-06-01",
+      "sport": 2,
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "name": "NCAA Men's Basketball Tournament",
+      "description": "Single-elimination tournament played each spring in the United States, featuring college basketball teams from the Division I level of the National Collegiate Athletic Association (NCAA).",
+      "startDate": "2025-03-18",
+      "sport": 2
+    }
+  ]
+}
